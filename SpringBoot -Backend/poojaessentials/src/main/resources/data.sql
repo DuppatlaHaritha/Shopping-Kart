@@ -1,0 +1,2 @@
+-- Sample admin user (password is 'adminpass' but app uses BCrypt; better to create via register endpoint)
+-- You can set spring.jpa.hibernate.ddl-auto=create to auto create tables and then call register endpoint to add admin.
